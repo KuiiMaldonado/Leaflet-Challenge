@@ -8,3 +8,11 @@ body,
 html {
   height: 100%;
 }
+
+.legend_list {
+  list-style-type: none;
+}
+
+.legend_list li {
+  font-size: x-large;
+}
